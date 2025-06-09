@@ -15,10 +15,8 @@ Get your IBM watsonx credentials:
 Go to IBM Cloud
 Create/access your watsonx.ai instance
 Copy your API key and Project ID 
-ID: ApiKey-6febb09e-4f09-46ee-8833-7980e299c1f8
-Key:Np1SKTG8Cck543hiHlbvbai003IsLJ0TfZQjT_VU5_gU
 
-cpd-apikey-IBMid-691000Y88U-2025-06-09T19:02:30Z
+
 
 
 
